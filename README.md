@@ -12,6 +12,7 @@ I’m currently enhancing my expertise through certifications, freelance project
 ### 🎓 Education  
 - **Federal University of Minas Gerais (UFMG)** – B.Sc. in Aerospace Engineering 
 
+---
 
 ### 🛠️ Language and tools
 
