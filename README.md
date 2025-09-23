@@ -48,7 +48,6 @@ I’m currently enhancing my expertise through certifications, freelance project
 ### 📫 Contact  
 
 - 📧 **Email**: [saulolacerda00@gmail.com](mailto:saulolacerda00@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/saulo-lacerda](https://www.linkedin.com/in/saulo-lacerda)  
-- 📱 **WhatsApp**: [+55 (31) 99391-6551](https://wa.me/5531993916551)  
+- 💼 **LinkedIn**: [linkedin.com/in/saulo-lacerda](https://www.linkedin.com/in/saulo-lacerda) 
 
 ---
