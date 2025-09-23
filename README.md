@@ -12,21 +12,6 @@ I’m currently enhancing my expertise through certifications, freelance project
 ### 🎓 Education  
 - **Federal University of Minas Gerais (UFMG)** – B.Sc. in Aerospace Engineering 
 
----
-
-### 📜 Certifications  
-- Associate Data Scientist in Python – Datacamp  
-- Data Analyst – Datacamp  
-- Data Importing & Cleaning – Datacamp  
-- Data Manipulation with Python – Datacamp  
-- Supervised Learning with scikit-learn – Datacamp  
-- Unsupervised Learning with Python – Datacamp  
-- Tree-Based Models in Python – Datacamp  
-- Regression Analysis with Python – Udemy  
-- MATLAB Onramp – MathWorks  
-- Excel (Basic & Advanced) – Senac  
-
----
 
 ### 🛠️ Language and tools
 
