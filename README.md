@@ -16,8 +16,6 @@ I’m currently enhancing my expertise through certifications, freelance project
 
 ### 🛠️ Language and Tools
 
-### 🛠️ Language and Tools
-
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
