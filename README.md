@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Saulo Lacerda  
 
-**`Junior Data Scientist`**
+**`Junior Data Analyst`**
 
 Undergraduate student in **Aerospace Engineering at UFMG** with a strong foundation in **mathematics, statistics, programming, and data modeling**.  
 Passionate about solving problems with **data-driven solutions**, applying **Python, SQL, MATLAB**, and machine learning tools to extract insights and build efficient models.  
